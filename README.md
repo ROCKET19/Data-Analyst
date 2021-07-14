@@ -12,3 +12,4 @@ Then, from Cricbuzz site, Ranking of players from Test, ODI, T20 for Batsman, Bo
 Formulating some Hypothesis and analysing them using Python Pandas, Matplotlib and Seaborn libraries.
 
 ## [Spotify Dataset Data Exploration using MySQL](https://github.com/ROCKET19/Data-Analyst/blob/main/Spotify%20Data%20Exploration/Exploration_Queries.sql)
+Spotify dataset which is taken from a Udemy course is analysed and answered some questions.
