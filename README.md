@@ -17,3 +17,9 @@ Spotify dataset which is taken from a Udemy course is analysed and answered some
 ## [UK Bank Customer Visualization (Power BI Visualization)](https://app.powerbi.com/groups/me/reports/ed59e690-fee4-41df-82f6-e7ac9e820115?ctid=2d54890f-18e3-4c70-97cd-bc1e5f21f9cb&pbi_source=linkShare)
 
 The Dataset of Customers from a bank in UK is analyzed and visualized using Power BI.
+
+## [Portfolio Report of Udemy and Cricket Batting Analysis](https://github.com/ROCKET19/Data-Analyst/blob/main/Udemy%20and%20Cricket%20Test%20Batting%20Data%20Analysis/Data%20Analysis%20Portfolio-converted.pdf)
+
+Udemy Dataset is taken and analyzed and answered some basic questions (using Excel and Tableau)
+ICC Test Cricket Batting Dataset is taken and analyzed and answered some basic questions (using Excel and Tableau)
+Both of them has been used to write a Report for Portfolio.
